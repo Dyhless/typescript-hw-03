@@ -44,4 +44,5 @@ console.log(employee.getEmployeeDetails());
 const manager = new Manager("Stive Vozniak", "Engeneering", 500000);
 console.log(manager.getEmployeeDetails());
 
+
 export {};
