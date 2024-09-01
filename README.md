@@ -32,7 +32,7 @@ salary, яке буде доступне лише всередині класу 
 
 ```ts
 class Employee {
-  // Заповніть модифікатори доступу
+  // Заповніть модифікатори доступу.
   name: string;
   department: string;
   salary: number;
